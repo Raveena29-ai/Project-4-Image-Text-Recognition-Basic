@@ -22,7 +22,7 @@ This project demonstrates a basic text recognition task using Python. It display
 The program prints the recognized text.
 
 ## Screenshots
-- Code Screenshot(IMG_20260703_212820.jpg)
+-code Screenshot(IMG_20260703_212820.jpg)
 - Output Screenshot(IMG_20260703_212759.jpg)
 
 ## Note
