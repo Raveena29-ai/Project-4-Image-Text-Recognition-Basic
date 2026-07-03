@@ -21,9 +21,11 @@ This project demonstrates a basic text recognition task using Python. It display
 ## Output
 The program prints the recognized text.
 
-## Screenshots
--code Screenshot(IMG_20260703_212820.jpg)
-- Output Screenshot(IMG_20260703_212759.jpg)
+### Code Screenshot
+![Code Screenshot](IMG_20260703_212820.jpg)
+
+### Output Screenshot
+![Output Screenshot](IMG_20260703_212759.jpg)
 
 ## Note
 This is a basic AI recognition project created for internship purposes.
